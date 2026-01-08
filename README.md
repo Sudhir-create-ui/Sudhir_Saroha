@@ -10,3 +10,5 @@ Featured Projects:
 Netfflix Subscritpion Analysis - SQL ,PowerBi, Excel
 Gym Analytics Dashboard - Excel, PowerBI
 Cardivascular Disease Analysis - Excel, SQL, PowerBI
+CrimeDataset Analysis - Excel, PowerBi, SQL
+Grocery Sales Analysis - Excel ,PowerBI
