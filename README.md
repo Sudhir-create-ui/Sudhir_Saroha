@@ -1,10 +1,14 @@
 # Sudhir_Saroha
 Hi, I am Sudhir, I am Data Analyst focused on transforming data in actionable insights.
+I am looking for Entry level Data Analyst/Business Analyst Roles
+
 Skills:
 -Excel(Pivot Tables, Power Query)
 -Sql(PostgreSQL ,Joins ,CTEs)
 -Python(Pands ,Numpy ,Matplotlib)
 -Power BI/Tableau
+let's Connect:- Email - Sudhirsaroha70@gmail.com
+                LinkedIn - www.linkedin.com/in/sudhir-saroha-a013b0381
 
 Featured Projects:
 Netfflix Subscritpion Analysis - SQL ,PowerBi, Excel
